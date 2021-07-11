@@ -1,0 +1,23 @@
+
+.container {
+    width: 1200px;
+    overflow: hidden;
+    margin: auto;
+}
+.row{
+    overflow: hidden;
+}
+
+.wd-50,.wd-33, .wd-25, .wd-75
+{
+    float: left;
+}
+.wd-50 { width: 50%;}
+.wd-33 { width: 33.33333%;}
+.wd-25 { width: 25%;}
+.wd-75 { width: 75%;}
+
+
+.clear {
+    clear: both;
+}

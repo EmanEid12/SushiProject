@@ -1,0 +1,458 @@
+body{
+   
+    margin: 0;
+    padding: 0;
+}
+ /*start head*/
+.head{
+    height: 800px;
+    background-image: url("../images/Design.png");
+    background-size: cover;
+}
+
+.navbar{
+    height: 60px;
+    float: left;
+}
+.navbar .container ul{
+    list-style: none;
+    text-align: center;
+}
+
+.navbar .container li{
+    display: inline-block;
+    float: right;
+}
+.navbar .container ul a{
+    color:rgb(179, 221, 116);
+    padding: 20px;
+    font-size: 22px;
+    font-family: sans-serif
+}
+ /*End head*/
+
+ /*start logo*/
+.logo{
+    text-align: center;
+}
+.logo img{
+    display: inline-block;
+    padding: 80px;
+    margin-left:550px;
+}
+ /*End logo*/
+ /*start New*/
+ .new{
+     text-align: center;
+     
+ }
+ P{
+    color:rgb(179, 221, 116);
+    font-family: sans-serif;
+    margin-left: 620px;
+    font-size: 30px;
+    font-weight: bold;
+ }
+ button{
+    padding: 10px;
+    width: 200px;
+    margin-left: 620px;
+    background-color: rgb(94, 110, 66);
+    color: :rgb(179, 221, 116);
+    font-size: 22px
+ }
+ button:hover{
+     color: white;
+     cursor: pointer;
+ }
+ /*End New*/
+
+ .cook{
+     background-color: #212121;
+     height: 500px;
+ }
+ h1{
+     color: #c1db8b;
+     margin: 40px;
+     font-family: cursive
+ }
+ .Lorem{
+     color: rgb(191, 193, 194);
+     margin: 40px;
+     font-size: 22px;
+     font-family: sans-serif;
+
+ }
+ .cook img{
+     max-width: 100%;
+ }
+/* Start New cook*/
+ .new-cook{
+     height: 350px;
+     background-color: #3f4237;
+ }
+ h2{
+    margin: 40px;
+     color: rgb(191, 193, 194);
+     font-family: cursive
+ }
+
+ .wd-33 .Lorem-test{
+    color:#9E9E9E;
+    margin: 40px;
+    font-size: 18px;
+    font-family: sans-serif;
+ }
+ .pic{
+     
+     padding-top: 10px;
+     margin: 40px;
+ }
+.pic img{
+    display: inline-block;
+}
+ /* End New cook*/
+
+/*start bring*/
+ .bring{
+     background-color: #212121;
+     height: 850px;
+     padding: 80px;
+ }
+ .cooky{
+     width: 70%;
+     height: 783px;
+     background-color: #3f4237;
+     text-align: center;
+     margin: auto;
+ }
+
+ .plate{
+    text-align: center;
+ }
+ .plate h2{
+    color: #668a1f;
+    font-family: cursive;
+    margin-bottom: 10px;
+ }
+ .to{
+    color: rgb(191, 193, 194);
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto;
+    padding-bottom: 25px;
+ }
+
+ h4{
+     color:#668a1f;
+    margin-bottom: 5px;
+     font-size: 20px;
+     font-family: cursive;
+ }
+.eat{
+    display: inline-block;
+}
+.eat .amet{
+    text-align: center;
+    margin: 20px;
+    font-size: 16px;
+    color:  rgb(191, 193, 194);
+}
+ 
+span{
+    color:  rgb(191, 193, 194);
+    font-size: 20px;
+}
+
+.wd-25 img{
+    max-width: 100%;
+}
+
+/*End bring*/
+/* Start we like*/
+.like{
+    height: 400px;
+     background-color:#3f4237;
+}
+.Things{
+    max-width: 700px;
+    margin: auto;
+}
+.like p{
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    color: rgb(191, 193, 194);
+
+}
+
+.like h2{
+    color:#668a1f ;
+}
+.Keep{
+    margin: 0;
+    text-align: center;
+    padding: 80px;
+}
+.photo{
+    text-align: center;
+    padding: 30px;
+}
+/* End we like*/
+
+/*Start Discover*/
+ .discover{
+      height: 800px;
+ }
+.menu{
+    height: 800px;
+    background-color: #171a13;
+    width: 100%;
+    margin: 10;
+}
+.menu h2{
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+}
+ .OUR{
+    text-align: center;
+    margin: 0;
+    font-weight: normal;
+    color: rgb(191, 193, 194);
+}
+ .wd-50 .ppp img{
+    display:inline-block;
+   
+  
+}
+
+.ppp{
+    background-color: rgb(138, 139, 139);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    line-height: 110px
+}
+.nigiri{
+    margin-left: 60px;
+}
+.nigiri h5{
+    font-size: 20px;
+    color: #cac5c5;
+    margin-left: 15px;
+}
+.fish{
+    margin-left: 15px;
+    font-weight: normal;
+    font-size: 18px;
+    color: #cac5c5;
+}
+
+/*End Discover*/
+.back{
+    background-image: url(../images/d09.png);
+    height: 600px;
+    background-size: cover;
+}
+
+/* Start Book Her*/
+.book{
+    height: 500px;
+    background-color:#212121;
+}
+
+.book h2{
+    margin: 0;
+    color: rgb(191, 193, 194);
+    font-family: cursive;
+    text-align: center;
+    padding-top: 50px;
+}
+.big{
+    margin: auto;
+}
+.wd-33 .How{
+    color: rgb(179, 221, 116);
+    font-family: sans-serif;
+   margin-left: 20px;
+    font-size: 20px;
+    color: rgb(191, 193, 194);
+}
+select{
+    width: 180px;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: #212121;
+    color: rgb(191, 193, 194);
+}
+
+.big input{
+    width: 180px;
+    padding: 5px;
+    margin-left: 20px;
+    background-color: #212121;
+    color: rgb(191, 193, 194);
+}
+
+.bigg{
+    margin-left: 100px;
+}
+.wd-33 .how{
+    color: rgb(179, 221, 116);
+    font-family: sans-serif;
+   margin-left: 20px;
+    font-size: 20px;
+    color: rgb(191, 193, 194);
+}
+.bigg input{
+    margin-left: 20px;
+    width: 180px;
+    padding: 5px;
+    background-color:#212121;
+    color: rgb(191, 193, 194);
+}
+
+.time input{
+    width: 180px;
+    padding: 5px;
+    margin-left: 20px;
+    background-color:#212121;
+    color: rgb(191, 193, 194);
+}
+.piic{
+    height: 800px;
+    background-image: url(../images/d010.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*
+.piic img{
+    height: 800px;
+    width: 1519.12px
+}
+*/
+/* End Book Her*/
+
+/*Start New Discover*/
+.list{
+    height: 900px;
+    background-color: #3f4237;
+    
+}
+.head-new{
+    text-align: center;
+}
+.head-new h2{
+    margin-top: 0;
+    color: rgb(179, 221, 116);
+    font-family: cursive;
+    padding-top: 60px;
+}
+
+.head-new p{
+
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(191, 193, 194);
+    margin-left: 0;
+    font-weight: normal;
+}
+
+.wd-33 img{
+    max-width: 100%;
+}
+
+.wd-33 p{
+    color: rgb(13, 14, 13);
+    font-family: sans-serif;
+    margin-left: 0;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.wd-33 h3{
+    margin: 10px;
+}
+.food{
+    background-color: rgb(191, 193, 194);
+     width: 330px;
+    padding-top: 25px;
+    padding: 5px;
+}
+.read{
+    text-decoration: underline;
+}
+
+/*End New Discover*/
+
+/* Start linda*/
+.linda{
+    height: 450px;
+   background-color:  rgb(56, 56, 56);
+    
+}
+.lin{
+    text-align: center;
+}
+ .line .container .lina{
+    color: rgb(179, 221, 116);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 0;
+}
+.line .lin{
+    margin: 0;
+    padding-top: 80px;
+   font-weight: normal;
+    font-size: 22px;
+    
+}
+.piut{
+    
+    margin-left: 550;
+}
+.icon{
+    text-align: center;
+    padding: 5px;
+}
+.fab{
+    margin: 5px;
+    background-color: white;
+    padding: 10px;
+   border-radius: 50%;
+   font-size: 32px;
+}
+/* End linda*/
+
+/* Start Footer*/
+.footer{
+    height: 300px;
+    background-color: #3f4237;
+}
+.about, .lor{
+    margin-left: 0;
+    color: white;
+}
+.lor{
+    font-size: 20px;
+    font-weight: normal;
+}
+.wd-33 .about{
+    color: white;
+    
+}
+.wd-33 .lor{
+    color: white;
+    font-weight: bolder;
+}
+.wd-33 .lorr{
+    color: white;
+    font-weight: normal;
+}
+/* End Footer*/
